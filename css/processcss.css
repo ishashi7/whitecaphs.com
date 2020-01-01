@@ -1,0 +1,83 @@
+.procd{
+  background-color:#EDE6DF;
+  height: auto;
+  margin-top: 80px;
+  padding-top: 20px;
+}
+.proinf{
+  background-color: #EDE6DF;
+  height: auto;
+  margin-bottom:25px;
+}
+.pinfo{
+  background-color: white;
+  padding: 10px;
+}
+.pinfo h3{
+  text-align: center;
+}
+.proimg{
+  margin-bottom:25px;
+  background-color: #EDE6DF;
+  height: auto;
+}
+.pimg{
+  background-color: white;
+  height:auto;
+  width: 100%;
+  padding: 30px;
+}
+.pimg img{
+  width: 100%;
+  height: 330px;
+}
+.propro{
+  height: auto;
+  background-color: #EDE6DF;
+  padding-bottom: 25px;
+}
+
+.prpro{
+  height: auto;
+  box-shadow: 0 7px 7px -7px black;
+  transition: 1s;
+  background-color: white;
+  margin-top: 15px;
+}
+.prpro img{
+  height: 200px;
+  margin: 10px;
+  width: 100%;
+}
+.prpro h4{
+  text-align: center;
+  margin-top: 15px;
+  color:#444444 ;
+}
+.prpro p{
+  margin-top: 15px;
+  text-align: center;
+  margin-right: 10px;
+}
+@media only screen and (max-width: 990px) {
+  .prpro p{
+text-align: center;
+margin-right: 10px;
+margin-left: 10px;
+}
+.prpro img{
+  margin-left: 0px;
+}
+}
+@media only screen and (max-width: 425px) {
+..prpro{
+  margin: 10px;
+}
+..prpro p{
+  text-align: center;
+}
+..prpro img{
+  margin-left: 27%;
+  margin-bottom: 0px;
+}
+}

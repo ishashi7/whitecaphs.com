@@ -1,0 +1,74 @@
+.bookb1{
+  height: auto;
+  margin-top: 80px;
+  /*background-color: #EDE6DF;*/
+  background-image: url("../img/bookbg.jpg");
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.bookfb{
+  margin: 0px auto;
+  padding: 0px auto;
+  height: auto;
+  width: 70%;
+  border-radius: 3px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+@media only screen and (max-width: 500px) {
+  .bookfb{
+    width: 100%;
+  }
+  .form{
+    margin: 0px !important;
+  }
+}
+.form{
+  margin: 25px;
+  padding-bottom: 35px;
+
+}
+.bookfb h4{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding-top: 20px;
+}
+label{
+  margin-top: 5px;
+  color: white;
+  font-size: 18px;
+}
+input[type="text"]{
+  width: 100%;
+  border: 2px solid black;
+  height: 40px;
+}
+input[type="phone"]{
+  width: 100%;
+  border: 2px solid black;
+  height: 40px;
+}
+input[type="email"]{
+  width: 100%;
+  border: 2px solid black;
+  height: 40px;
+}
+select{
+    width: 100%;
+    border: 2px solid black;
+    height: 40px;
+}
+input[type="submit"]{
+  width: 100%;
+  margin-top: 20px;
+  height: 45px;
+  background-color: #ff6348;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+}
+input[type="submit"]:hover{
+  background-color: #4cd137;
+}

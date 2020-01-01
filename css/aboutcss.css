@@ -1,0 +1,164 @@
+.ahed{
+  text-align: center;
+  margin-top: 15px;
+}
+.abtd1{
+  height: auto;
+  background-color: white;
+}
+.abtd2{
+  height: auto;
+  background-color: none;
+}
+.abtd3{
+  height: auto;
+  background-color: none;
+}
+.ab2i{
+  height: 330px;
+  background-color: gray;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.ab2i img{
+  width: 100%;
+  height: 100%;
+}
+.ab2i1{
+  height: auto;
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.ab2i1 h4{
+  text-align: center;
+  padding-top: 10px;
+}
+.ab2i1 p{
+  text-align: justify;
+}
+.abtval{
+    height: auto;
+	width:100%;
+    background-image: url(../img/backe.jpg);
+  }
+  .abtval1{
+    height:auto;
+    /*background-color: #f9f9f9;*/
+    background-color:rgba(0,0,0,0.6);
+    margin-left: 6%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    margin-right: 3%;
+    transition: 1s;
+  }
+  .abtval1 h4{
+    text-align: center;
+    margin-top: 3%;
+    color:#f5f6fa;
+  }
+  .abtval1 p{
+    text-align: center;
+    margin-top: 4%;
+      color: #f5f6fa;
+  }
+  .abtval1 i{
+    margin-left: 40%;
+    font-size: 60px;
+    margin-top: 3%;
+    color:#f7f1e3;
+  }
+  .abtval2{
+    height: auto;
+    /*background-color: #f9f9f9;*/
+    background-color:rgba(0,0,0,0.6);
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    margin-right: 3%;
+    transition: 1s;
+  }
+  .abtval2 h4{
+    text-align: center;
+    margin-top: 3%;
+    color:white;
+  }
+  .abtval2 p{
+    text-align: center;
+    margin-top: 4%;
+    color: white;
+  }
+  .abtval2 i{
+    margin-left: 40%;
+    font-size: 60px;
+    margin-top: 3%;
+    color:#f7f1e3;
+  }
+  .abtval3{
+    height: auto;
+	/*background-color: #f9f9f9;*/
+    background-color:rgba(0,0,0,0.6);
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    margin-right: 3%;
+    transition: 1s;
+  }
+  .abtval3 h4{
+    text-align: center;
+    margin-top: 3%;
+    color: white;
+  }
+  .abtval3 p{
+    text-align: center;
+    margin-top: 4%;
+    color: white;
+  }
+  .abtval3 i{
+    margin-left: 40%;
+    font-size: 60px;
+    margin-top: 3%;
+    color:#f7f1e3;
+  }
+  
+  
+@media (max-width: 768px){
+	.abtval1,.abtval2,.abtval3{
+		margin-left:0px;
+	}
+	
+}
+  
+  
+  .thed{
+    text-align: center;
+	margin-top:15px;
+	padding-bottom:5px;
+  }
+  .otea{
+    height: auto;
+    background-color: #f3f3f3;
+  }
+  .otea1{
+    height:auto;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 15px;
+	padding-bottom:10px;
+	transition: 1s;
+  }
+  .otea1 img{
+    height: 200px;
+    width:80%;
+    margin:35px;
+    margin-bottom: 10px;
+  }
+  .otea1 p{
+    text-align: center;
+  }
+  .otea1 i{
+   font-size: 30px;
+  }

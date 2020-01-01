@@ -1,0 +1,226 @@
+*{
+  margin: 0px auto;
+  padding: 0px auto;
+}
+body{
+  background-color:white;
+}
+  header{
+  height:100px;
+  width: 1080px;
+  background-color: white;
+  border: 5px solid #2c3e50;
+  background-color: #f5f6fa;
+  }
+  header img{
+    height: 90px;
+    width: 150px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+  header h3{
+    }
+  header button{
+    background-color: #273c75;
+    width: 150px;
+    height: 40px;
+    border: none;
+    margin-left: 70%;
+    margin-top: 5px;
+    margin-right: 10px;
+	cursor:pointer;
+	color:white;
+
+  }
+   header button a{
+     font-size: 17px;
+     text-decoration: none;
+     color: white;
+   }
+   article{
+     height: auto;
+     width: 1080px;
+     border: 5px solid #2c3e50;
+     border-top: none;
+     border-bottom: none;
+     background-color: #f5f6fa;
+   }
+   .dbox1{
+     height: 450px;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: block;
+   }
+   .dbox2{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .dbox3{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .dbox3{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .dbox4{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .dbox5{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .dbox6{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .dbox7{
+     height: auto;
+     width: 1080px;
+     background-color: #f5f6fa;
+     display: none;
+   }
+   .blo1{
+     height: 200px;
+     width: 250px;
+     background: #fff;
+     margin-left: 80px;
+      margin-top: 15px;
+     float: left;
+     box-shadow: 2px 2px 2px 2px #cccccc;
+   }
+   .blo1 img{
+     height: 160px;
+     width: 220px;
+     margin-left: 15px;
+   }
+   .blo1 p{
+     text-align: center;
+     margin-top: 7px;
+     color: green;
+     font-size: 20px;
+   }
+   .blo2{
+     height: 200px;
+     width: 250px;
+     background: #fff;
+     margin-left: 80px;
+     margin-top: 15px;
+     float: left;
+     box-shadow: 2px 2px 2px 2px #cccccc;
+   }
+   .blo2 img{
+     height: 160px;
+     width: 220px;
+     margin-left: 15px;
+   }
+   .blo2 p{
+     text-align: center;
+     margin-top: 7px;
+     color: green;
+     font-size: 20px;
+   }
+   .blo3{
+     height: 200px;
+     width: 250px;
+     background: #fff;
+     margin-left: 80px;
+     margin-top: 15px;
+     float: left;
+     box-shadow: 2px 2px 2px 2px #cccccc;
+   }
+   .blo3 img{
+     height: 160px;
+     width: 220px;
+     margin-left: 15px;
+   }
+   .blo3 p{
+     text-align: center;
+     margin-top: 7px;
+     color: green;
+     font-size: 20px;
+   }
+   .blo4{
+     height: 200px;
+     width: 250px;
+     background: #fff;
+     margin-left: 80px;
+      margin-top: 20px;
+     float: left;
+     box-shadow: 2px 2px 2px 2px #cccccc;
+   }
+   .blo4 img{
+     height: 160px;
+     width: 220px;
+     margin-left: 15px;
+   }
+   .blo4 p{
+     text-align: center;
+     margin-top: 7px;
+     color: green;
+     font-size: 20px;
+   }
+   .blo5{
+     height: 200px;
+     width: 250px;
+     background: #fff;
+     margin-left: 80px;
+     margin-top: 20px;
+     float: left;
+     box-shadow: 2px 2px 2px 2px #cccccc;
+   }
+   .blo5 img{
+     height: 160px;
+     width: 220px;
+     margin-left: 15px;
+   }
+   .blo5 p{
+     text-align: center;
+     margin-top: 7px;
+     color: green;
+     font-size: 20px;
+   }
+   .blo6{
+     height: 200px;
+     width: 250px;
+     background: #fff;
+     margin-left: 80px;
+     margin-top: 20px;
+     float: left;
+     box-shadow: 2px 2px 2px 2px #cccccc;
+   }
+   .blo6 img{
+     height: 160px;
+     width: 220px;
+     margin-left: 15px;
+   }
+   .blo6 p{
+     text-align: center;
+     margin-top: 7px;
+     color: green;
+     font-size: 20px;
+   }
+   footer{
+     height: 50px;
+     width: 1080px;
+     border: 5px solid #2c3e50;
+     background-color: #ecf0f1;
+   }
+   footer p{
+     margin-top: 15px;
+     font-size: 17px;
+   }
